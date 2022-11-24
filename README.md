@@ -1,9 +1,9 @@
 ## Oiii eu sou o Kauã Rodrigo Joenck!
-<div align="left">
-  <a href="https://github.com/kauarodrigo">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=KauaRodrigo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <a href="https://github.com/kauarodrigo">  
+<div align="left">  
+  <a href="https://github.com/kauarodrigo" />  
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaRodrigo&layout=compact&langs_count=5&theme=dracula"/>
+  <a href="https://github.com/kauarodrigo" />
+  <img height="155em" width="400em" src="https://github-readme-stats.vercel.app/api?username=KauaRodrigo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
