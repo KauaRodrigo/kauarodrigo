@@ -1,4 +1,4 @@
-## Oiii eu sou o Kauã Rodrigo Joenck!
+## Oiii eu sou o Kauã Rodrigo Joenck, sou Desenvolvedor FullStack Jr. na Meu Crediário!
 <div align="left">  
   <a href="https://github.com/kauarodrigo" />  
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaRodrigo&layout=compact&langs_count=5&theme=dracula"/>  
