@@ -1,7 +1,7 @@
 ## Oiii eu sou o Kauã Rodrigo Joenck, sou Desenvolvedor FullStack Jr. na Meu Crediário!
 <div align="left">  
   <a href="https://github.com/kauarodrigo" />  
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaRodrigo&layout=compact&langs_count=5&theme=dracula&count_private=true"/>  
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaRodrigo&layout=compact&langs_count=5&theme=dracula"/>  
   <img height="155em" width="400em" src="https://github-readme-stats.vercel.app/api?username=kauarodrigo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
