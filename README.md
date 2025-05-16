@@ -3,6 +3,11 @@
   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauarodrigo&layout=compact&langs_count=5&theme=dracula"/>  
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=kauarodrigo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+<div align="center">
+  <a href="https://github.com/kauarodrigo">
+    <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=kauarodrigo&theme=vision-friendly-dark&hide_border=false"/>
+  </a>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -16,12 +21,6 @@
 </div>
   
   ##
-
-<div align="center">
-    <a href="https://github.com/kauarodrigo">
-    <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=kauarodrigo&theme=vision-friendly-dark&hide_border=false"/>
-  </a>
-</div>
  
 <div>   
   <a href = "mailto:kaurodrigo.joenck2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
