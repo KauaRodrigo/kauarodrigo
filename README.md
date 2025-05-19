@@ -3,9 +3,6 @@
   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauarodrigo&layout=compact&langs_count=5&theme=vision-friendly-dark"/>    
 </div>
 <div>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=kauarodrigo&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-</div>
-<div>
   <a href="https://github.com/kauarodrigo">
     <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=kauarodrigo&theme=vision-friendly-dark&hide_border=false"/>
   </a>
