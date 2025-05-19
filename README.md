@@ -1,10 +1,10 @@
 <div>  
   <a href="https://github.com/kauarodrigo" />  
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauarodrigo&layout=compact&langs_count=5&theme=vision-friendly-dark"/>    
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauarodrigo&layout=compact&langs_count=5&theme=vue-dark"/>    
 </div>
 <div>
   <a href="https://github.com/kauarodrigo">
-    <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=kauarodrigo&theme=vision-friendly-dark&hide_border=false"/> 
+    <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=kauarodrigo&theme=vue-dark&hide_border=false"/> 
   </a>
 </div>
 <div style="display: inline_block"><br>
