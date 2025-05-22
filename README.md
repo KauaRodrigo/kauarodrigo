@@ -1,7 +1,7 @@
 <div>  
   <a href="https://github.com/kauarodrigo" />  
   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauarodrigo&layout=compact&langs_count=5&theme=vue-dark"/>    
-  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=kauarodrigo&theme=vue-dark&hide_border=false"/> 
+  <img width="400em" style="height: 220px" src="https://github-readme-streak-stats.herokuapp.com/?user=kauarodrigo&theme=vue-dark&hide_border=false"/> 
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
