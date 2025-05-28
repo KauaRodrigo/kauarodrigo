@@ -1,5 +1,5 @@
 <div>    
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauarodrigo&layout=compact&langs_count=5&theme=vue-dark"/>    
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaRodrigo&layout=compact&langs_count=5&theme=vue-dark"/>    
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=kauarodrigo&theme=vue-dark&hide_border=false"/>
 </div>
 <div style="display: inline_block"><br>
