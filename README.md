@@ -1,6 +1,6 @@
 <div>    
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaRodrigo&layout=compact&langs_count=5&theme=vue-dark"/>    
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=kauarodrigo&theme=vue-dark&hide_border=false"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al0i&layout=compact&langs_count=5&theme=vue-dark"/>    
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=al0i&theme=vue-dark&hide_border=false"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
